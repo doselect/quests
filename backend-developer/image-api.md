@@ -18,7 +18,7 @@ Keep in mind the following points. These are required:
  - The image should be stored on the file-system where this service lives.
  - To use this API, an API access key has to be generate using a management
  command. This access key should be used to authenticate all API calls.
- - You MUST NOT use any database to store metadata. A filesystem where you
+ - You MUST NOT use any database to store image metadata. A filesystem where you
  store the images is all you have.
 
 Good to haves:
